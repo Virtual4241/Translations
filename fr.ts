@@ -5608,7 +5608,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="262"/>
         <source>Lock Toolbars</source>
-        <translation>Vérouiller les bar d&apos;outils</translation>
+        <translation>Verrouiller les bar d&apos;outils</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
